@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meine App</string>
+    <string name="welcome_message">Willkommen in meiner App!</string>
+    <string name="button_text">Klick mich</string>
+</resources>
